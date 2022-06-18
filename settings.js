@@ -2,7 +2,7 @@
 
 //
 
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                   ✦••─────••✦𝙼𝚁 𝙱𝙾𝚃 𝙿𝙰𝙽𝚃𝙷𝙴𝚁✦••─────••✦
 
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 
@@ -39,39 +39,39 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['𝙼𝚁 𝙹𝙰𝙽𝙸𝚈𝙰ᴹᵞ٭͢ᴸᴵᶠᴱ⃝⃯⃮🌀💙 ᭄ ']
 
 global.premium = ['🖤Black Panther Bot🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94751625942'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = '𝙼𝚁 𝙹𝙰𝙽𝙸𝚈𝙰ᴹᵞ٭͢ᴸᴵᶠᴱ⃝⃯⃮🌀💙 ᭄ '
 
 global.botname = '🖤Black Panther Bot🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '𝙼𝚁 𝙹𝙰𝙽𝙸𝚈𝙰🕊️😉.'
 
 global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
-global.region = 'Sri lanka, North Central Province, Anuradhapura'
+global.region = 'Sri lanka, 𝚂𝙰𝙱𝙰𝚁𝙰𝙶𝙰𝙼𝚄 𝙿𝚁𝙾𝚅𝙸𝙽𝙲𝙴 , 𝚁𝚄𝚆𝙰𝙽𝚆𝙴𝙻𝙻𝙰'
 
 global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🕊️𝙱𝙾𝚃 𝙱𝙻𝙰𝙲𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁🕊️'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = 'ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄ͫᴊⷦᴀͥɴᷠɪᷚʏᴀ⇅࿐'
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','❄','🖤','☃']
+global.prefa = ['','!','.','🕊️','💫','🗯️']
 
 global.sp = '◈'
 
 global.mess = {
 
-    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
+    success: 'Done ✓🗯️',
 
     admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
 
